@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaituVR/timestamp-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChaituVR/timestamp-service/issues"
+  },
+  "homepage": "https://github.com/ChaituVR/timestamp-service#readme"
 }
